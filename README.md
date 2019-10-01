@@ -136,7 +136,7 @@ turn some services off or on:
     },
 ```
 
-`...` define you own service:
+`...` define your own service:
 
 ```json
     "spamfilter": {
